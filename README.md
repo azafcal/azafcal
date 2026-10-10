@@ -5,4 +5,4 @@
 - 🔭 I am currently working as a Platform Engineer.
 - 🌱 I like to talk about: **IaC,  Cloud, Observability, Automation, AI, Containers and so on.**
 - 💻 All of my labs are available at here.
-- 📫 You can reach me on linkedin.
+- 📫 You can reach me on email or linkedin.
